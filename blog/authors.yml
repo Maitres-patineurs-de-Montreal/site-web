@@ -1,25 +1,40 @@
-yangshun:
-  name: Yangshun Tay
-  title: Ex-Meta Staff Engineer, Co-founder GreatFrontEnd
-  url: https://linkedin.com/in/yangshun
-  image_url: https://github.com/yangshun.png
-  page: true
-  socials:
-    x: yangshunz
-    linkedin: yangshun
-    github: yangshun
-    newsletter: https://www.greatfrontend.com
-
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
+bruno:
+  name: Bruno Pettersen-Coulombe
+  title: Président et entraîneur
+  url: https://brunopc.net
+  image_url: https://github.com/brunopc-net.png
   page:
     # customize the url of the author page at /blog/authors/<permalink>
-    permalink: '/all-sebastien-lorber-articles'
+    permalink: '/brunopc'
   socials:
-    x: sebastienlorber
-    linkedin: sebastienlorber
-    github: slorber
-    newsletter: https://thisweekinreact.com
+    email: president@maitrespatineurs.ca
+    linkedin: brunopc
+    github: brunopc-net
+
+pascal:
+  name: Le shérif du tiroir-caisse
+  title: Trésorier
+  image_url: /img/tresorier.jpg
+  page:
+    # customize the url of the author page at /blog/authors/<permalink>
+    permalink: '/sherif-du-tiroir-caisse'
+  socials:
+    email: tresorier@maitrespatineurs.ca
+
+oceanne:
+  name: Océanne Bourassa-Demers
+  title: Responsable média sociaux, entraîneure-substitut
+  image_url: /img/oceanne.jpg
+  page:
+    # customize the url of the author page at /blog/authors/<permalink>
+    permalink: '/oceanne'
+  socials:
+    instagram: oce.an.bou
+
+benoit:
+  name: Benoît Delisle
+  title: Entraîneur du dimanche
+  image_url: /img/benoit.jpg
+  page:
+    # customize the url of the author page at /blog/authors/<permalink>
+    permalink: '/benoit'

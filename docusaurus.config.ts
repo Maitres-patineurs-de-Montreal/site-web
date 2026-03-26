@@ -5,8 +5,8 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'Club des Maîtres Patineurs de Montréal',
-  tagline: 'Vous recherchez une activité physique qui vous garde en forme dans une atmosphère de camaraderie? Vous avez fait du patin plus jeune? Vous savez comment patiner avec des roues alignées? Vous vous retrouvez émule de Gaétan Boucher, Nathalie Lambert, Marc Gagnon et d’autres Québécois et Montréalais qui se sont illustrés dans cette discipline? Le Club des Maîtres, membre de Patinage de vitesse Québec, offre la possibilité d’un entraînement supervisé, pour les débutants jusqu’aux experts.',
+  title: 'Club des Maîtres-patineurs de Montréal',
+  tagline: 'Vous recherchez une activité physique qui vous garde en forme dans une atmosphère de camaraderie?',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -40,23 +40,16 @@ const config: Config = {
       'classic',
       {
         docs: {
-          sidebarPath: './sidebars.ts',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          sidebarPath: './sidebars.ts'
         },
         blog: {
+          blogSidebarCount: 10,
           showReadingTime: true,
           routeBasePath: 'nouvelles',
           feedOptions: {
             type: ['rss', 'atom'],
             xslt: true,
           },
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
@@ -76,7 +69,7 @@ const config: Config = {
       respectPrefersColorScheme: true,
     },
     navbar: {
-      title: 'Maîtres patineurs de Montréal',
+      title: 'Maîtres-patineurs de Montréal',
       logo: {
         alt: 'Logo du Club des Maîtres',
         src: 'img/logo.svg',
@@ -89,11 +82,15 @@ const config: Config = {
           position: 'left',
           label: 'Informations',
         },
-        {to: '/nouvelles', label: 'Nouvelles', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
-          label: 'GitHub',
-          position: 'right',
+          to: '/nouvelles',
+          label: 'Nouvelles',
+          position: 'left'
+        },
+        {
+          to: '/nouvelles/authors',
+          label: 'Contactez-nous',
+          position: 'left'
         },
       ],
     },
@@ -101,11 +98,15 @@ const config: Config = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'Politiques',
           items: [
             {
-              label: 'Apprendre',
-              to: '/docs/apprendre',
+              label: 'Termes et conditions',
+              to: '/termes-et-conditions',
+            },
+            {
+              label: 'Règlements des scéances',
+              href: '/reglements',
             },
           ],
         },
@@ -127,16 +128,8 @@ const config: Config = {
           ],
         },
         {
-          title: 'More',
+          title: 'Liens utiles',
           items: [
-            {
-              label: 'Termes et conditions',
-              to: '/termes-et-conditions',
-            },
-            {
-              label: 'Règlements',
-              href: '/reglements',
-            },
             {
               label: 'Patinage de vitesse Québec',
               href: 'https://www.patinagedevitessequebec.ca',
@@ -144,7 +137,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Club des Maîtres Patineurs de Montréal. Site web construit avec Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Club des Maîtres-patineurs de Montréal. Site web construit avec Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,

@@ -7,6 +7,7 @@ En vous inscrivant au club, vous renoncez par le même fait, en votre nom et cel
 ## Utilisation des renseignements
 
 Ces renseignements sont recueillis en vertu de la Loi sur l’accès à l’information et la protection de la vie privée. Ils sont exigés pour vous inscrire au Club des Maîtres Patineurs de Montréal.  Les noms et des photos des participants peuvent être publiés ou affichés sur des tableaux d’affichage, des sites Web, des médias, des bulletins et du matériel promotionnel.  Nous ne communiquerons avec les personnes à contacter et n’utiliserons vos renseignements médicaux qu’en cas d’urgence médicale. Si vous avez des questions à propos de la collecte ou de l’utilisation de ces renseignements, veuillez communiquer avec le Club des Maîtres Patineurs de Montréal.
+
 Autorisation
 
 En signant le formulaire d’inscription, je confirme que toutes les informations fournies sont justes en date de la signature, je déclare avoir lu et compris la décharge de responsabilité et autorise le Club des Maîtres Patineurs à utiliser mes informations personnelles et les photos dans lesquelles j’apparais tel que stipulé dans le présent formulaire.
@@ -16,6 +17,4 @@ Seulement les demandes de remboursement pour raisons médicales seront acceptés
 
 Toute demande de remboursement pour une raison médicale doit être accompagnée d’une preuve médicale officielle. Le remboursement est établi en fonction de la charte de calcul à partir de la date d’arrêt de l’activité. 
 
-Veuillez noter que nous ne remboursons pas les patineurs pour: 
-- Des absences ponctuelles 
-- Toute annulation imprévue de session de glace pour un événement ou autre que ceux indiqués à l’horaire au moment de l’inscription 
+Veuillez noter que nous ne remboursons pas les patineurs pourleurs absences ponctuelles.

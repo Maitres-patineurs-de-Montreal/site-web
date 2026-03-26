@@ -1,56 +1,51 @@
 import type {ReactNode} from 'react';
 import clsx from 'clsx';
+import useBaseUrl from '@docusaurus/useBaseUrl';
+
+import ThemedImage from '@theme/ThemedImage';
 import Heading from '@theme/Heading';
+
 import styles from './styles.module.css';
 
 type FeatureItem = {
   title: string;
-  Svg: React.ComponentType<React.ComponentProps<'svg'>>;
   description: ReactNode;
+  link: string;
 };
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Apprendre le patinage courte piste',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Calendrier',
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Consultez l'horaire prévu en date d'aujourd'hui
       </>
     ),
+    link: '/docs/calendrier'
   },
   {
-    title: 'Équipement requis',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Inscription',
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Très simple, ce sera fait en moins de 15 minutes!
       </>
     ),
-  },
-  {
-    title: 'Horaire, lieux d\'entraînement et tarifs',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
-    description: (
-      <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
-      </>
-    ),
+    link: '/docs/inscription'
   },
 ];
 
-function Feature({title, Svg, description}: FeatureItem) {
+function Feature({title, description, link}: FeatureItem) {
   return (
-    <div className={clsx('col col--4')}>
+    <div className={clsx('col col--6')}>
       <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
+        <ThemedImage className={styles.logo} alt="Logo" sources={{
+            light: useBaseUrl('/img/logo.svg'),
+            dark: useBaseUrl('/img/logo-dark.svg'),
+        }}/>
       </div>
       <div className="text--center padding-horiz--md">
         <Heading as="h3">{title}</Heading>
-        <p>{description}</p>
+        <p><a href={link}>{description}</a></p>
       </div>
     </div>
   );

@@ -1,0 +1,14 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Je me lance!": {
+    "message": "Je me lance!",
+    "description": "The label for category 'Je me lance!' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Je me lance!.link.generated-index.description": {
+    "message": "Apprendre le patinage de vitesse courte piste",
+    "description": "The generated-index page description for category 'Je me lance!' in sidebar 'tutorialSidebar'"
+  }
+}

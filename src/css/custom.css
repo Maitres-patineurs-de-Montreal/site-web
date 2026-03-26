@@ -41,3 +41,7 @@
   width: 25%;
   text-align: center;
 }
+
+.text--right a {
+  color: #b74741;
+}

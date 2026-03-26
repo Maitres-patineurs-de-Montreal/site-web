@@ -1,0 +1,22 @@
+{
+  "title": {
+    "message": "Maîtres patineurs de Montréal",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "Logo du Club des Maîtres",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Informations": {
+    "message": "Informations",
+    "description": "Navbar item with label Informations"
+  },
+  "item.label.Nouvelles": {
+    "message": "Nouvelles",
+    "description": "Navbar item with label Nouvelles"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  }
+}
