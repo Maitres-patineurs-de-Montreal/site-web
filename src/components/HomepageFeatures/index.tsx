@@ -16,21 +16,17 @@ type FeatureItem = {
 const FeatureList: FeatureItem[] = [
   {
     title: 'Calendrier',
-    description: (
-      <>
+    description: (<>
         Consultez l'horaire prévu en date d'aujourd'hui
-      </>
-    ),
-    link: '/docs/calendrier'
+    </>),
+    link: '/website/docs/calendrier'
   },
   {
     title: 'Inscription',
-    description: (
-      <>
+    description: (<>
         Très simple, ce sera fait en moins de 15 minutes!
-      </>
-    ),
-    link: '/docs/inscription'
+    </>),
+    link: '/website/docs/inscription'
   },
 ];
 

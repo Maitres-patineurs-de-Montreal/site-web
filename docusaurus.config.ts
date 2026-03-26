@@ -6,7 +6,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'Club des Maîtres-patineurs de Montréal',
-  tagline: 'Vous recherchez une activité physique qui vous garde en forme dans une atmosphère de camaraderie?',
+  tagline: 'Vous cherchez une activité physique qui vous garde en forme dans une atmosphère de camaraderie?',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
