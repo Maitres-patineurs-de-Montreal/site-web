@@ -21,9 +21,9 @@ Sur la patinoire, les patineurs doivent porter leur [équipement de sécurité o
 
 ## Horaire
 
-À la fin de la période prévue à la séance, les patineurs doivent avoir ramassés les plots délimitant la piste, les chaudières, gourdes d'eau et sortir.
+À la fin de la période prévue à la séance, les patineurs doivent avoir ramassé les plots délimitant la piste, les chaudières, gourdes d'eau et sortir.
 
-Les patineurs ont 30 minutes d'accès à la chambre des athlètes après la fin de la période. Une fois ces 30 minutes écoulés, les participants doivent quitter les lieux.
+Les patineurs ont 30 minutes d'accès à la chambre des athlètes après la fin de la période. Une fois ces 30 minutes écoulées, les participants doivent quitter les lieux.
 
 ## Alcool et tabac
 
@@ -43,4 +43,4 @@ Il est donc convenu que le club se réserve le droit réclamer à son tour les c
 
 ## Vol
 
-Le chambre des athlètes est généralement cadenassée. Malgré tout, le risque zéro n'existe pas. Le club se décharge de tout vol ou dommage qu'un patineur pourrait subir. Il est de votre responsabilité de garder vos effets personnels en sécurité. Si aucun cadenas n'est disponible, il est fortement recommandé d'amener vos effets personnels (surtout cellulaires et portefeuilles) à côté de la patinoire.
+La chambre des athlètes est généralement cadenassée. Malgré tout, le risque zéro n'existe pas. Le club se décharge de tout vol ou dommage qu'un patineur pourrait subir. Il est de votre responsabilité de garder vos effets personnels en sécurité. Si aucun cadenas n'est disponible, il est fortement recommandé d'amener vos effets personnels (surtout cellulaires et portefeuilles) à côté de la patinoire.

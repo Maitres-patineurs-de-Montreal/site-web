@@ -13,7 +13,7 @@ Autorisation
 En signant le formulaire d’inscription, je confirme que toutes les informations fournies sont justes en date de la signature, je déclare avoir lu et compris la décharge de responsabilité et autorise le Club des Maîtres Patineurs à utiliser mes informations personnelles et les photos dans lesquelles j’apparais tel que stipulé dans le présent formulaire.
 Politique de remboursement
 
-Seulement les demandes de remboursement pour raisons médicales seront acceptés.
+Seulement les demandes de remboursement pour raisons médicales seront acceptées.
 
 Toute demande de remboursement pour une raison médicale doit être accompagnée d’une preuve médicale officielle. Le remboursement est établi en fonction de la charte de calcul à partir de la date d’arrêt de l’activité. 
 
