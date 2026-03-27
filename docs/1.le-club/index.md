@@ -10,7 +10,7 @@ Le Club des maîtres-patineurs de Montréal, membre de [Patinage de vitesse Qué
 
 Nous sommes un groupe qui s'amusent à patiner dans une ambiance décontractée et ludique!
 
-![Groupe des Maîtres-patineurs 2026](/img/groupe-maitres-2026.jpg)
+![Groupe automne 2025](groupe-automne-2025.jpg)
 
 ## Historique
 
@@ -30,7 +30,7 @@ Les entraîneurs se sont succédés: Jocelyn Brûlé puis, Youri Juteau et Antoi
 
 ### L'époque Maurice-Richard
 
-Le club a ensuite déménagé à [l'aréna Maurice-Richard](/docs/arena-maurice-richard) en 2010, l’année des Jeux Olympiques de Vancouver qui a transformé l'aréna pour un système sans bandes. C'est aussi l'année durant laquelle notre [président et entraîneur Bruno]() commence à s'impliquer avec le club, tout d'abord avec le groupe de Gadbois où il s'entraînait.
+Le club a ensuite déménagé à [l'aréna Maurice-Richard](/docs/arena-maurice-richard) en 2010, l’année des Jeux Olympiques de Vancouver qui a transformé l'aréna pour un système sans bandes. C'est aussi l'année durant laquelle notre [président et entraîneur Bruno](/nouvelles/authors/brunopc) commence à s'impliquer avec le club, tout d'abord avec le groupe de Gadbois où il s'entraînait.
 
 Il a ensuite commencé à entraîner en même temps le groupe de Maurice-Richard en 2011. Plusieurs entraîneurs ont également mit des leurs pour le club: Olivier Godin, Myrka Bergeron, Zoé Candelier, Nicolas Desjardins.
 

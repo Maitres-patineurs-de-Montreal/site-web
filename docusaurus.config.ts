@@ -88,7 +88,7 @@ const config: Config = {
           position: 'left'
         },
         {
-          to: '/nouvelles/authors',
+          to: '/docs/calendrier',
           label: 'Calendrier',
           position: 'left'
         },
@@ -98,7 +98,7 @@ const config: Config = {
           position: 'left'
         },
         {
-          to: '/docs/calendrier',
+          to: '/nouvelles/authors',
           label: 'Contactez-nous',
           position: 'left'
         },
