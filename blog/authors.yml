@@ -8,8 +8,6 @@ bruno:
     permalink: '/brunopc'
   socials:
     email: president@maitrespatineurs.ca
-    linkedin: brunopc
-    github: brunopc-net
 
 pascal:
   name: Le shérif du tiroir-caisse
@@ -29,7 +27,7 @@ oceanne:
     # customize the url of the author page at /blog/authors/<permalink>
     permalink: '/oceanne'
   socials:
-    instagram: oce.an.bou
+    instagram: maitrespatineurs
 
 benoit:
   name: Benoît Delisle
