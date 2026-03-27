@@ -23,7 +23,7 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/club">
+            to="/docs/le-club">
             Découvrez le patinage de vitesse pour adultes
           </Link>
         </div>
