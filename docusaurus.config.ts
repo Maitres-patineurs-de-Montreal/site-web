@@ -89,6 +89,16 @@ const config: Config = {
         },
         {
           to: '/nouvelles/authors',
+          label: 'Calendrier',
+          position: 'left'
+        },
+        {
+          to: '/docs/tarifs-et-inscription',
+          label: 'Tarifs et inscription',
+          position: 'left'
+        },
+        {
+          to: '/docs/calendrier',
           label: 'Contactez-nous',
           position: 'left'
         },
