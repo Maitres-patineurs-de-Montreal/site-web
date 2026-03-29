@@ -21,7 +21,7 @@ Sur la patinoire, les patineurs doivent porter leur [équipement de sécurité o
 
 Votre carte d'Assurance maladie est obligatoire lors des séances afin que nous puissions la remettre à l'hôpital dans le cas d'un accident.
 
-Si vous avez des allergies à des médicaments ou conditions médicales perticulières, il est de votre responsabilité d'en aviser le club.
+Si vous avez des allergies à des médicaments ou conditions médicales particulières, il est de votre responsabilité d'en aviser le club.
 
 ## Horaire
 
