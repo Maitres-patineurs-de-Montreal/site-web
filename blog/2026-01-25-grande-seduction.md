@@ -6,7 +6,7 @@ authors: [pascal]
 
 # La Grande séduction 2026
 
-Promotion spéciale – 15 $ de rabais pour votre premier essai avec le groupe des Maîtres patineurs à Maurice Richard.
+Promotion spéciale – 15 $ de rabais pour votre premier essai avec le groupe des Maîtres-patineurs à Maurice Richard.
 
 Bonjour à toutes et à tous,
 

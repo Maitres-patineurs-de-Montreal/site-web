@@ -43,4 +43,4 @@ Il est donc convenu que le club se réserve le droit réclamer à son tour les c
 
 ## Vol
 
-La chambre des athlètes est généralement cadenassée. Malgré tout, le risque zéro n'existe pas. Le club se décharge de tout vol ou dommage qu'un patineur pourrait subir. Il est de votre responsabilité de garder vos effets personnels en sécurité. Si aucun cadenas n'est disponible, il est fortement recommandé d'amener vos effets personnels (surtout cellulaires et portefeuilles) à côté de la patinoire.
+La chambre des athlètes est généralement, mais pas nécessairement, cadenassée. Même cadenassé, le risque zéro n'existe pas. Le club se décharge de tout vol ou dommage qu'un patineur pourrait subir. Il est de votre responsabilité de garder vos effets personnels en sécurité. Si aucun cadenas n'est disponible, il est fortement recommandé d'amener vos effets personnels (surtout cellulaires et portefeuilles) à côté de la patinoire.
