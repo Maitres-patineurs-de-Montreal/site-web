@@ -21,6 +21,8 @@ Sur la patinoire, les patineurs doivent porter leur [équipement de sécurité o
 
 Votre carte d'Assurance maladie est obligatoire lors des séances afin que nous puissions la remettre à l'hôpital dans le cas d'un accident.
 
+Si vous avez des allergies à des médicaments ou conditions médicales perticulières, il est de votre responsabilité d'en aviser le club.
+
 ## Horaire
 
 À la fin de la période prévue à la séance, les patineurs doivent avoir ramassé les plots délimitant la piste, les chaudières, gourdes d'eau et sortir.
