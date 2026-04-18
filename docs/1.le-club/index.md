@@ -22,7 +22,7 @@ Jean-Luc souhaitait apprendre à patiner avec de longues lames. Ce sont Adélard
 
 ### La fondation du club
 
-La Ville de Montréal à exigé que l’on constitue un club, ce que qui a été fait en 2004 sous forme de statut d’OBNL. Le club des Maîtres de Montréal était né!
+La Ville de Montréal à exigé que l’on constitue un club, ce que qui a été fait le 9 août 2004 sous forme de statut d’OBNL. Le club des Maîtres-patineurs de Montréal était né!
 
 Les patineurs étaient nombreux déjà à cette époque: entre 20 et 30 sur une petite glace et de tous les niveaux.
 
