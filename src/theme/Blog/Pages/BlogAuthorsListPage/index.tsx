@@ -58,7 +58,7 @@ function ContactPage({authors}: {authors: Props['authors']}) {
           <ul>
             <li>pour les nouveaux patineurs, la section <a href="/docs/category/je-me-lance">"je me lance"</a>;
             </li> <li>pour les inscriptions et tarifs, tout est détaillé dans la <a href="/docs/tarifs-et-inscription">page à cet effet</a>;</li>
-            <li>pour tout ce qui est annulations et calendrier, la page <a href="/docs/tarifs-et-inscription">calendrier</a> est la source par excellence.</li>
+            <li>pour tout ce qui est annulations et calendrier, la page <a href="/docs/calendrier">calendrier</a> est la source par excellence.</li>
           </ul>
         `}
       />
