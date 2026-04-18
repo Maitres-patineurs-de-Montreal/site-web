@@ -17,12 +17,12 @@ const FeatureList: FeatureItem[] = [
   {
     title: 'Planifiez vos scéances',
     description: (<>Consultez l'horaire prévu en date d'aujourd'hui</>),
-    link: '/website/docs/calendrier'
+    link: '/docs/calendrier'
   },
   {
     title: 'Inscrivez-vous',
     description: (<>Très simple, ce sera fait en moins de 15 minutes!</>),
-    link: '/website/docs/tarifs-et-inscription'
+    link: '/docs/tarifs-et-inscription'
   },
 ];
 

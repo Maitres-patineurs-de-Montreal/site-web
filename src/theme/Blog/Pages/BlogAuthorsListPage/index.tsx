@@ -53,26 +53,26 @@ function ContactPage({authors}: {authors: Props['authors']}) {
         content={`
           <p>
             Nous sommes une très petite équipe de bénévoles...
-            Avant de nous contacter, consultez <a href="/website/docs/le-club/">notre documentation</a>:
+            Avant de nous contacter, consultez <a href="/docs/le-club/">notre documentation</a>:
           </p>
           <ul>
-            <li>pour les nouveaux patineurs, la section <a href="/website/docs/category/je-me-lance">"je me lance"</a>;
-            </li> <li>pour les inscriptions et tarifs, tout est détaillé dans la <a href="/website/docs/tarifs-et-inscription">page à cet effet</a>;</li>
-            <li>pour tout ce qui est annulations et calendrier, la page <a href="/website/docs/tarifs-et-inscription">calendrier</a> est la source par excellence.</li>
+            <li>pour les nouveaux patineurs, la section <a href="/docs/category/je-me-lance">"je me lance"</a>;
+            </li> <li>pour les inscriptions et tarifs, tout est détaillé dans la <a href="/docs/tarifs-et-inscription">page à cet effet</a>;</li>
+            <li>pour tout ce qui est annulations et calendrier, la page <a href="/docs/tarifs-et-inscription">calendrier</a> est la source par excellence.</li>
           </ul>
         `}
       />
 
       <h2>Annonces et nouvelles</h2>
       <p>
-        La source officielle pour les annonces sera dorénavant <a href="/website/nouvelles">la section "nouvelles" du présent site web</a>.
+        La source officielle pour les annonces sera dorénavant <a href="/nouvelles">la section "nouvelles" du présent site web</a>.
         L'équipe est présentement en train de tester des applications pour les intéressés à recevoir des notifications lorsque des nouvelles seront publiées.
       </p>
 
       <h2>Groupe Messenger</h2>
       <p>
         Nous avons un groupe Messenger privé pour communiquer entre membres patineurs.
-        Si vous voulez y être ajouté, demandez à un responsable lorsque vous serez avec nous à <a href="/website/docs/arena-maurice-richard">Maurice-Richard</a>.
+        Si vous voulez y être ajouté, demandez à un responsable lorsque vous serez avec nous à <a href="/docs/arena-maurice-richard">Maurice-Richard</a>.
       </p>
 
       <h2>Notre équipe</h2>
