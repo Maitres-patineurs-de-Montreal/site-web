@@ -53,7 +53,7 @@ function ContactPage({authors}: {authors: Props['authors']}) {
         content={`
           <p>
             Nous sommes une très petite équipe de bénévoles...
-            Avant de nous contacter, consultez <a href="/website/docs/le-club/">notre documentation</a>.
+            Avant de nous contacter, consultez <a href="/website/docs/le-club/">notre documentation</a>:
           </p>
           <ul>
             <li>pour les nouveaux patineurs, la section <a href="/website/docs/category/je-me-lance">"je me lance"</a>;
