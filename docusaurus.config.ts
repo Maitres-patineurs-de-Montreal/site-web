@@ -15,15 +15,15 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: 'https://club-maitres-patineurs-montreal.github.io',
+  url: 'https://maitrespatineurs.ca',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/website/',
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Club-maitres-patineurs-montreal', // Usually your GitHub org/user name.
-  projectName: 'website', // Usually your repo name.
+  organizationName: 'Maitres-patineurs-de-Montreal', // Usually your GitHub org/user name.
+  projectName: 'site-web', // Usually your repo name.
 
   onBrokenLinks: 'throw',
 
