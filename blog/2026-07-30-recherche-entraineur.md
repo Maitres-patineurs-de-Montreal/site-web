@@ -1,6 +1,6 @@
 ---
 slug: recherche-entraineur-2026
-title: Recherche d'entraîneur pour 2026
+title: Entraîneur pour la prochaine saison
 authors: [bruno]
 ---
 
