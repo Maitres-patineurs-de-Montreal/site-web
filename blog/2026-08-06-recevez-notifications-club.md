@@ -27,7 +27,7 @@ C'est précisément pour cette raison que nous vous proposons de recevoir les no
 En vous abonnant au flux RSS de notre site avec une application sur votre téléphone, vous pourrez recevoir une notification chaque fois qu'une nouvelle est publiée.
 
 1. Pour les un téléphone sous Androïd, installez [Feeder](https://play.google.com/store/apps/details?id=com.nononsenseapps.feeder.play&hl=fr_CA). Pour les téléphones Apple sous iOS (iPhones), ce sera [feeder.co](https://apps.apple.com/us/app/feeder-co-rss-feed-reader/id668210239).
-1. Ajoutez le flux RSS à l'application: [https://maitrespatineurs.ca/nouvelles/rss.xml].
+1. Ajoutez le flux RSS à l'application: https://maitrespatineurs.ca/nouvelles/rss.xml.
 1. Activez les notifications de l'application respective, et le tour est joué! Vous recevrez automatiquement une notification à chaque nouvelle publication sur le site.
 
 Il vous sera également toujours possible de consulter [les annonces du club](/nouvelles) à votre guise sans installer d'application sur votre téléphone. Vous pourrez ainsi vérifier manuellement les informations importantes, telles qu'un changement d'horaire, ont été publiées.
