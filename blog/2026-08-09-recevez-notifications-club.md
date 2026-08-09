@@ -1,6 +1,6 @@
 ---
 slug: recevez-nouvelles-club-telephone
-title: Recevez les nouvelles du club sur votre téléphone
+title: Recevez les notifications des nouvelles du club
 authors: [bruno]
 ---
 
@@ -9,7 +9,6 @@ Bonjour à tous,
 Par le passé, nous avions l'habitude de publier les annonces du club sur Facebook ainsi qu'à votre adresse courriel. Malheureusement, nous nous sommes butté à plusieurs problèmes lors des dernières saisons:
 
 1. **Les annonces sur Facebook rejoingnaient de plus en plus difficilement nos membres**. Facebook a énormément changé; plutôt qu'être un babillard du contenu suivi, c'est devenu un algorithme qui pousse du contenu afin de provoquer de l'engagemnent.
-1. Les annonces par courriel ont également tendance à se perdre parmis les centaines de notifications des entreprises qui se ramassent dans nos boîtes de courriels.
 1. Le système pivot a été abandonné pour réduire les frais d'administration du club; la gestion des courriels demanderait plus de travail aux administrateurs qu'avant
 
 C'est pourquoi, durant la dernière saison, de façon temporaire, il a été décidé d'utiliser le groupe messenger comme moyen de communiquer les annonces officielles.
@@ -22,13 +21,26 @@ De plus, certaines personnes peuvent être intéressées à recevoir les informa
 
 C'est précisément pour cette raison que nous vous proposons de recevoir les notifications de notre nouveau site web, qui fera foi des messages officiels.
 
-## Recevez les notifications du club (facultatif)
+## Recevez les notifications du club par courriel (Blogtrottr)
 
-En vous abonnant au flux RSS de notre site avec une application sur votre téléphone, vous pourrez recevoir une notification chaque fois qu'une nouvelle est publiée.
+En vous abonnant au flux RSS de notre site avec [Blogtrottr](https://blogtrottr.com/), vous pourrez recevoir un courriel (donc avec la notification associée) à chaque fois qu'une nouvelle est publiée.
 
-1. Pour les un téléphone sous Androïd, installez [Feeder](https://play.google.com/store/apps/details?id=com.nononsenseapps.feeder.play&hl=fr_CA). Pour les téléphones Apple sous iOS (iPhones), ce sera [feeder.co](https://apps.apple.com/us/app/feeder-co-rss-feed-reader/id668210239).
+Les étapes sont simples:
+1. Rendez-vous sur https://blogtrottr.com/, entrez `https://maitrespatineurs.ca/nouvelles/rss.xml` comme **URL du flux**, votre adresse courriel et appuyez avec le bouton **Je m'abonne**
+1. Confirmez votre abonnement en cliquant sur le lien reçu par courriel
+1. Vous recevrez les nouvelles du club à l'intérieur d'une heure à partir de sa publication
+
+## Recevez les notifications du club sans courriel (Androïd)
+
+1. Pour les un téléphone sous Androïd, installez [Feeder](https://play.google.com/store/apps/details?id=com.nononsenseapps.feeder.play&hl=fr_CA).
 1. Ajoutez le flux RSS à l'application: https://maitrespatineurs.ca/nouvelles/rss.xml.
-1. Activez les notifications de l'application respective, et le tour est joué! Vous recevrez automatiquement une notification à chaque nouvelle publication sur le site.
+1. Activez les notifications de l'application respective, et ous recevrez automatiquement une notification à chaque nouvelle publication sur le site, à l'intérieur d'une heure.
+
+## Recevez les notifications du club sans courriel (iOS)
+
+Malheureusement, les limitations sous iOS rendent cette opération plus compliquée. Nous n'avons pas réussi à trouver une application gratuite, avec notification pour les flux RSS, sous iOS. Vous avez toujours la possibilité d'utiliser [Blogtrottr](https://blogtrottr.com/).
+
+## Les notification sont optionelles
 
 Il vous sera également toujours possible de consulter [les annonces du club](/nouvelles) à votre guise sans installer d'application sur votre téléphone. Vous pourrez ainsi vérifier manuellement les informations importantes, telles qu'un changement d'horaire, ont été publiées.
 
