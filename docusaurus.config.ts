@@ -145,8 +145,8 @@ const config: Config = {
               href: 'https://www.patinagedevitessequebec.ca',
             },
             {
-              label: 'IceReg',
-              href: 'https://icereg.ca/#!/series/maitres-patineurs-de-montreal',
+              label: 'Inscription IceReg',
+              href: 'https://icereg.ca/#!/series/maitres-patineurs-de-montreal-1',
             }
           ],
         },
