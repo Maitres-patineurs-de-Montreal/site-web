@@ -15,13 +15,14 @@ C'est pourquoi, durant la dernière saison, de façon temporaire, il a été dé
 
 ## Pourquoi maintenant utiliser le site web plutôt que Messenger?
 
-Notre groupe Messenger est devenu un excellent endroit pour échanger, poser des questions et discuter entre passionnés. Les conversations y sont vivantes, mais elles ont aussi une limite importante : elles sont éphémères. Une information utile peut rapidement disparaître sous une dizaine de nouveaux messages.
-
-De plus, certaines personnes peuvent être intéressées à recevoir les informations importantes, sans être distraits par les messages des autres membres.
+Notre groupe Messenger est devenu un excellent endroit pour échanger, poser des questions et discuter entre passionnés. Les conversations y sont vivantes, mais elles ont aussi des limites importantes
+- Les informations publiées sont éphémères. Une information utile peut rapidement disparaître sous une dizaine de nouveaux messages.
+- Certains membres sont très peu présents sur Facebook/Messenger
+- D'autres patineurs peuvent être intéressés à recevoir les informations importantes, sans être distraits par les messages des autres membres.
 
 C'est précisément pour cette raison que nous vous proposons de recevoir les notifications de notre nouveau site web, qui fera foi des messages officiels.
 
-## Recevez les notifications du club par courriel (Blogtrottr)
+## Blogtrottr: recevez les nouvelles du club par courriel
 
 En vous abonnant au flux RSS de notre site avec [Blogtrottr](https://blogtrottr.com/), vous pourrez recevoir un courriel (donc avec la notification associée) à chaque fois qu'une nouvelle est publiée.
 
@@ -30,19 +31,21 @@ Les étapes sont simples:
 1. Confirmez votre abonnement en cliquant sur le lien reçu par courriel
 1. Vous recevrez les nouvelles du club à l'intérieur d'une heure à partir de sa publication
 
-## Recevez les notifications du club sans courriel (Androïd)
+## Feeder: notifications sans courriel (Androïd)
 
 1. Pour les un téléphone sous Androïd, installez [Feeder](https://play.google.com/store/apps/details?id=com.nononsenseapps.feeder.play&hl=fr_CA).
 1. Ajoutez le flux RSS à l'application: https://maitrespatineurs.ca/nouvelles/rss.xml.
-1. Activez les notifications de l'application respective, et ous recevrez automatiquement une notification à chaque nouvelle publication sur le site, à l'intérieur d'une heure.
+1. Activez les notifications de l'application respective, et vous recevrez automatiquement une notification à chaque nouvelle publication sur le site, à l'intérieur d'une heure.
 
-## Recevez les notifications du club sans courriel (iOS)
+## Limitation des appareils sous iOS
 
-Malheureusement, les limitations sous iOS rendent cette opération plus compliquée. Nous n'avons pas réussi à trouver une application gratuite, avec notification pour les flux RSS, sous iOS. Vous avez toujours la possibilité d'utiliser [Blogtrottr](https://blogtrottr.com/).
+Nous n'avons pas réussi à trouver une application comparable à Feeder pour iOS (gratuite, avec notification pour les flux RSS). Malheureusement, les limitations sous iOS rendent cette opération plus compliquée.
 
-## Les notification sont optionelles
+Vous avez toujours la possibilité d'utiliser [Blogtrottr](https://blogtrottr.com/).
 
-Il vous sera également toujours possible de consulter [les annonces du club](/nouvelles) à votre guise sans installer d'application sur votre téléphone. Vous pourrez ainsi vérifier manuellement les informations importantes, telles qu'un changement d'horaire, ont été publiées.
+## Les notifications sont optionelles
+
+Il vous sera également toujours possible de consulter [les annonces du club](/nouvelles) à votre guise sans installer d'application sur votre téléphone. Vous pourrez ainsi vérifier manuellement si des informations importantes, telles qu'un changement d'horaire, ont été publiées.
 
 ## Messenger reste l'endroit idéal pour discuter
 
