@@ -10,7 +10,9 @@ Suivez ces instructions et vous recevrez automatiquement une notification à cha
 
 1. Installez l'application [Feeder](https://play.google.com/store/apps/details?id=com.nononsenseapps.feeder.play&hl=fr_CA).
 1. Ajoutez le flux RSS à l'application: `https://maitrespatineurs.ca/nouvelles/rss.xml`.
-1. Activez les notifications de l'application
+1. Activez les notifications de l'application dans `Feeder > ⋮ > Modifier le Flux > Club des Maîtres-patineurs de Montréal Blog > Activer "Notifications des nouveaux articles"` 
+1. Autorizez les notifications de Feeder dans `Réglages du téléphone > Notifications des appplis > Feeder`
+1. **Bonus**: Vous pouvez réduire le délais des notifications en allant dans `Feeder > ⋮ > ⚙️ Préférences > Recherche des nouveaux articles`. Changer de `Toutes les heures` (par défaut) à `Toutes les 15 minutes`. 
 
 ### Téléphones sous iOS (iPhones)
 
