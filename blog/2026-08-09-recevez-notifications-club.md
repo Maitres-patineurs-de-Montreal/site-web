@@ -15,9 +15,9 @@ C'est pourquoi, durant la dernière saison, de façon temporaire, il a été dé
 
 ## Pourquoi maintenant utiliser le site web plutôt que Messenger?
 
-Notre groupe Messenger est devenu un excellent endroit pour échanger, poser des questions et discuter entre passionnés. Les conversations y sont vivantes, mais elles ont aussi des limites importantes
+Notre groupe Messenger est devenu un excellent endroit pour échanger, poser des questions et discuter entre passionnés. Les conversations y sont vivantes, mais elles ont aussi des limites importantes:
 - Les informations publiées sont éphémères. Une information utile peut rapidement disparaître sous une dizaine de nouveaux messages.
-- Certains membres sont très peu présents sur Facebook/Messenger
+- Certains membres sont très peu présents sur Facebook/Messenger.
 - D'autres patineurs peuvent être intéressés à recevoir les informations importantes, sans être distraits par les messages des autres membres.
 
 C'est précisément pour cette raison que nous vous proposons de recevoir les notifications de notre nouveau site web, qui fera foi des messages officiels.
@@ -27,9 +27,9 @@ C'est précisément pour cette raison que nous vous proposons de recevoir les no
 En vous abonnant au flux RSS de notre site avec [Blogtrottr](https://blogtrottr.com/), vous pourrez recevoir un courriel (donc avec la notification associée) à chaque fois qu'une nouvelle est publiée.
 
 Les étapes sont simples:
-1. Rendez-vous sur https://blogtrottr.com/, entrez `https://maitrespatineurs.ca/nouvelles/rss.xml` comme **URL du flux**, votre adresse courriel et appuyez avec le bouton **Je m'abonne**
-1. Confirmez votre abonnement en cliquant sur le lien reçu par courriel
-1. Vous recevrez les nouvelles du club à l'intérieur d'une heure à partir de sa publication
+1. Rendez-vous sur https://blogtrottr.com/, entrez `https://maitrespatineurs.ca/nouvelles/rss.xml` comme **URL du flux**, votre adresse courriel et appuyez avec le bouton **Je m'abonne**.
+1. Confirmez votre abonnement en cliquant sur le lien reçu par courriel.
+1. Vous recevrez les nouvelles du club à l'intérieur d'une heure à partir de sa publication.
 
 ## Feeder: notifications sans courriel (Androïd)
 
