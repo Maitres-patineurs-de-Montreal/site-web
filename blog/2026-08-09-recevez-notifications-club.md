@@ -22,16 +22,16 @@ Notre groupe Messenger est devenu un excellent endroit pour échanger, poser des
 
 C'est précisément pour cette raison que nous vous proposons de recevoir les notifications de notre nouveau site web, qui fera foi des messages officiels.
 
-## Blogtrottr: recevez les nouvelles du club par courriel
+## [Blogtrottr](https://blogtrottr.com/): recevez les nouvelles du club par courriel
 
 En vous abonnant au flux RSS de notre site avec [Blogtrottr](https://blogtrottr.com/), vous pourrez recevoir un courriel (donc avec la notification associée) à chaque fois qu'une nouvelle est publiée.
 
 Les étapes sont simples:
-1. Rendez-vous sur https://blogtrottr.com/, entrez `https://maitrespatineurs.ca/nouvelles/rss.xml` comme **URL du flux**, votre adresse courriel et appuyez avec le bouton **Je m'abonne**.
+1. Rendez-vous sur [Blogtrottr](https://blogtrottr.com/), entrez `https://maitrespatineurs.ca/nouvelles/rss.xml` comme **URL du flux**, votre adresse courriel et appuyez avec le bouton **Je m'abonne**.
 1. Confirmez votre abonnement en cliquant sur le lien reçu par courriel.
 1. Vous recevrez les nouvelles du club à l'intérieur d'une heure à partir de sa publication.
 
-## Feeder: notifications sans courriel (Androïd)
+## [Feeder](https://play.google.com/store/apps/details?id=com.nononsenseapps.feeder.play&hl=fr_CA): notifications sans courriel (Androïd)
 
 1. Pour les un téléphone sous Androïd, installez [Feeder](https://play.google.com/store/apps/details?id=com.nononsenseapps.feeder.play&hl=fr_CA).
 1. Ajoutez le flux RSS à l'application: https://maitrespatineurs.ca/nouvelles/rss.xml.
