@@ -146,7 +146,7 @@ const config: Config = {
             },
             {
               label: 'Inscription IceReg',
-              href: 'https://icereg.ca/#!/events/mpm-club-des-maitres-patineurs-de-montreal-20262027',
+              href: 'https://icereg.ca/#!/events/maitres-patineurs-montreal-20262027',
             }
           ],
         },
