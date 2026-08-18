@@ -1,10 +1,12 @@
 # Abonnez-vous aux nouvelles du club
 
+Ne ratez pas les nouvelles du club: les informations pour l'inscription, les changements d'horaires, imprévus et autres informations importantes pour les membres y seront publiés.
+
+## Notifications sur téléphone
+
 Il est possible de configurer une application sur votre téléphone afin de recevoir les notifications lorsqu'il y a une nouvelle publiée sur le site.
 
-## Notifications sans courriel
-
-Suivez ces instructions et vous recevrez automatiquement une notification à chaque nouvelle publication, à l'intérieur d'une heure de sa publication.
+Suivez ces instructions et vous recevrez automatiquement une notification à chaque nouvelle publication, à l'intérieur d'une heure maximum de sa publication.
 
 ### Téléphones sous Androïd (Pixel, Samsung, etc.)
 

@@ -66,7 +66,7 @@ function ContactPage({authors}: {authors: Props['authors']}) {
       <h2>Annonces et nouvelles</h2>
       <p>
         La source officielle pour les annonces est <a href="/nouvelles">la section "nouvelles" du présent site web</a>.
-        Vous pouvez recevoir des [alertes sur votre téléphone lorsqu'une nouvelle est publiée](/abonnez-vous).
+        Vous pouvez recevoir des <a href="/abonnez-vous">alertes sur votre téléphone lorsqu'une nouvelle est publiée</a>.
       </p>
 
       <h2>Groupe Messenger</h2>
