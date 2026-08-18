@@ -1,6 +1,6 @@
 # Abonnez-vous aux nouvelles du club
 
-Ne ratez pas les nouvelles du club: les informations pour l'inscription, les changements d'horaires, imprévus et autres informations importantes pour les membres y seront publiés.
+Ne ratez pas les nouvelles du club: les informations pour l'inscription, les changements d'horaires, imprévus et autres informations importantes pour les membres y seront publiées.
 
 ## Notifications sur téléphone
 
@@ -10,7 +10,7 @@ Suivez ces instructions et vous recevrez automatiquement une notification à cha
 
 ### Téléphones sous Androïd (Pixel, Samsung, etc.)
 
-1. Installez l'application [Feeder](https://play.google.com/store/apps/details?id=com.nononsenseapps.feeder.play&hl=fr_CA).
+1. Installez l'application [**Feeder**](https://play.google.com/store/apps/details?id=com.nononsenseapps.feeder.play&hl=fr_CA).
 1. Ajoutez le flux RSS à l'application: `https://maitrespatineurs.ca/nouvelles/rss.xml`.
 1. Activez les notifications de l'application dans `Feeder > ⋮ > Modifier le Flux > Club des Maîtres-patineurs de Montréal Blog > Activer "Notifications des nouveaux articles"` 
 1. Autorizez les notifications de Feeder dans `Réglages du téléphone > Notifications des appplis > Feeder`
@@ -18,7 +18,7 @@ Suivez ces instructions et vous recevrez automatiquement une notification à cha
 
 ### Téléphones sous iOS (iPhones)
 
-1. Installez l'application [Feeder.co](https://apps.apple.com/us/app/feeder-co-rss-feed-reader/id668210239).
+1. Installez l'application [**Feeder.co**](https://apps.apple.com/us/app/feeder-co-rss-feed-reader/id668210239).
 1. Créez-vous un compte pour l'application.
 1. Ajoutez le flux RSS à l'application: `https://maitrespatineurs.ca/nouvelles/rss.xml`.
 1. Activez les notifications de l'application dans `Feeder > Réglages > Notifications push`
@@ -31,5 +31,7 @@ Vous recevrez de la publicité dans les courriels du club avec cette méthode. I
 :::
 
 1. Rendez-vous sur [Blogtrottr](https://blogtrottr.com/)
-1. Entrez `https://maitrespatineurs.ca/nouvelles/rss.xml` comme **URL du flux**, votre adresse courriel et appuyez avec le bouton **Je m'abonne**.
+1. Entrez `https://maitrespatineurs.ca/nouvelles/rss.xml` comme **URL du flux**,
+1. Entrez votre adresse courriel
+1. appuyez avec le bouton **Je m'abonne**.
 1. Confirmez votre abonnement en cliquant sur le lien reçu par courriel.
