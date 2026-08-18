@@ -1,0 +1,30 @@
+# Abonnez-vous aux nouvelles du club
+
+Il est possible de configurer une application sur votre téléphone afin de recevoir les notifications lorsqu'il y a une nouvelle publiée sur le site.
+
+## Notifications sans courriel
+
+Suivez ces instructions et vous recevrez automatiquement une notification à chaque nouvelle publication, à l'intérieur d'une heure de sa publication.
+
+### Téléphones sous Androïd (Pixel, Samsung, etc.)
+
+1. Installez l'application [Feeder](https://play.google.com/store/apps/details?id=com.nononsenseapps.feeder.play&hl=fr_CA).
+1. Ajoutez le flux RSS à l'application: `https://maitrespatineurs.ca/nouvelles/rss.xml`.
+1. Activez les notifications de l'application
+
+### Téléphones sous iOS (iPhones)
+
+1. Installez l'application [Feeder.co](https://apps.apple.com/us/app/feeder-co-rss-feed-reader/id668210239).
+1. Créez-vous un compte pour l'application.
+1. Ajoutez le flux RSS à l'application: `https://maitrespatineurs.ca/nouvelles/rss.xml`.
+1. Activez les notifications de l'application
+
+## Notifications par courriel: [Blogtrottr](https://blogtrottr.com/)
+
+:::warning
+Vous recevrez de la publicité dans les courriels du club avec cette méthode. Il vous faudra parfois faire défiler jusqu'à la nouvelle. Elle est moins appréciée par les membres pour cette raison, mais c'est une solution de rechange si l'application ne fonctionne pas pour vous.
+:::
+
+1. Rendez-vous sur [Blogtrottr](https://blogtrottr.com/), entrez `https://maitrespatineurs.ca/nouvelles/rss.xml` comme **URL du flux**, votre adresse courriel et appuyez avec le bouton **Je m'abonne**.
+1. Confirmez votre abonnement en cliquant sur le lien reçu par courriel.
+1. Vous recevrez les nouvelles du club à l'intérieur d'une heure à partir de sa publication.

@@ -98,6 +98,11 @@ const config: Config = {
           position: 'left'
         },
         {
+          to: '/abonnez-vous',
+          label: 'Abonnez-vous',
+          position: 'left'
+        },
+        {
           to: '/nouvelles/authors',
           label: 'Contactez-nous',
           position: 'left'
@@ -123,6 +128,10 @@ const config: Config = {
         {
           title: 'Suivez-nous',
           items: [
+            {
+              label: 'Nouvelles du club',
+              href: '/abonnez-vous',
+            },
             {
               label: 'Page Facebook',
               href: 'https://www.facebook.com/maitres.patineurs.montreal',
