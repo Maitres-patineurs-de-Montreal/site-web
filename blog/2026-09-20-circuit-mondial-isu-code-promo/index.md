@@ -1,7 +1,7 @@
 ---
-slug: debut-saison-2027
+slug: circuit-isu-2026-code-promo
 title: Circuit mondial ISU Montréal 2026 - Soutenez votre club! ⭐
-authors: [bruno, pascal]
+authors: [oceanne]
 ---
 
 À l’occasion du Circuit mondial ISU courte piste #2 (ISU Short Track World Tour), qui se tiendra à Montréal du 30 octobre au 1er novembre 2026, utilisez le code promo : 𝐌𝐏𝐌
