@@ -22,7 +22,7 @@ const FeatureList: FeatureItem[] = [
   {
     title: 'Inscrivez-vous',
     description: (<>Très simple, ce sera fait en moins de 15 minutes!</>),
-    link: '/docs/tarifs-et-inscription'
+    link: '/docs/inscription'
   },
 ];
 
