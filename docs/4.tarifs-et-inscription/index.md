@@ -55,17 +55,21 @@ Si vous débutez et souhaitez apprendre ce merveilleux sport, des cours pour les
 
 ### 2. Inscription à PVQ (Patinage de vitesse Québec)
 
-Inscrivez-vous à Patinage de vitesse Québec sur IceReg: https://icereg.ca/#!/events/maitres-patineurs-montreal-20262027.
+Inscrivez-vous à Patinage de vitesse Québec sur IceReg: https://icereg.ca/#!/memberships/builder-v2/patinage-de-vitesse-du-quebec-20262027.
 
-Pour participer aux entrainements de manière récréative, vous devez vous inscrire comme patineur ou patineuse Vie active (régulier).
+Choississez `MPM - CPV Des maîtres-patineurs de Montréal`
 
-Si vous souhaitez faire une ou plusieurs compétitions, vous devez sélectionner votre niveau de compétition.
-- Pour les patineurs et patineuses qui participent à des compétitions interrégionales : Niveau compétitions PVQ (I-P-E-CU)
-- Pour les patineurs et patineuses qui participent à des compétitions régionales : Niveau compétitions régionales.
+![Sélection du club sur IceReg](iceReg-selection-club.png)
 
-### 3. Choisir votre inscription
+Remplissez ensuite les différents formulaires: Renseignements sur les membres, préférences linguistique, etc.
 
-Vous devrez choisir un type d’inscription
+**Type d'inscription**
+- Pour ceux qui veulent participer à des compétitions: Il faut choisir l'option  `Niveau compétitions PVQ (I-P-E-CU)`.
+- Pour participer aux entrainements de manière récréative, vous devez vous inscrire comme patineur ou patineuse `Vie active (régulier)`.
+
+### 3. Paiement au Club des Maîtres-patineurs
+
+Vous devrez choisir un type de paiement
 
 1. Abonnement: le plus simple. Vous payez une fois et tous les entraînements de votre plage horaire sont inclus.
 2. Coupons: vous pouvez payer pour 5 séances.
