@@ -12,7 +12,7 @@ Aucun remboursement, total ou partiel, de la cotisation annuelle ou des frais de
 
 ## Licence requise
 
-Tous les patineurs doivents être inscrits auprès de [Patinage de vitesse Québec](https://www.patinagedevitessequebec.ca).
+Tous les patineurs doivents être inscrits auprès de [Patinage de vitesse Québec](https://www.patinagedevitessequebec.ca). Les instructions pour cette inscription sont mentionnées [ici](/docs/tarifs-et-inscription/#2-inscription-à-pvq-patinage-de-vitesse-québec).
 
 ## Niveau requis
 
