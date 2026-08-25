@@ -57,15 +57,29 @@ Si vous débutez et souhaitez apprendre ce merveilleux sport, des cours pour les
 
 Inscrivez-vous à Patinage de vitesse Québec sur IceReg: https://icereg.ca/#!/memberships/builder-v2/patinage-de-vitesse-du-quebec-20262027.
 
+#### Choisir son type d'inscription
+
+##### L'inscription récréative
+
+Si vous n'avez pas l'intention de participer à des compétitions, c'est l'inscription la moins chère qui vous permet d'avoir accès à nos entraînements. L'option à choisir est `Vie active (régulier)`.
+
+![Sélection du type d'inscription sur IceReg](iceReg-inscription-recreatif.png)
+
+Cette option ne vous empêche pas de revenir acheter une licence de compétition plus tard durant la saison.
+
+##### L'inscription compétitive
+
+Pour ceux qui veulent participer à plusieurs compétitions, la licence à choisir est l'option `Niveau compétitions PVQ CP (I-P-E-CU) et LP`. Cette licence vous permettera à la fois de participer aux compétitions provinciales Collégiales-Universitaires (CU), mais également aux [MIST (Masters International Short Track Games)](https://imssc.org/mstr/). 
+
+![Sélection du type d'inscription sur IceReg](iceReg-inscription-competition.png)
+
+Si vous voulez essayer une seule compétition en cours de saison, il est toujours possible d'acheter une licence de compétition unique: `Niveau competition Championnats CU CP/LP (adhésion minimale participation unique)`. Cela vous permet de participer à deux compétitions Collégiales-Universitaires avant que la licence annuelle soit un meilleur prix.
+
+#### Choisir son club d'affiliation
+
 Choississez `MPM - CPV Des maîtres-patineurs de Montréal`
 
-![Sélection du club sur IceReg](iceReg-selection-club.png)
-
-Remplissez ensuite les différents formulaires: Renseignements sur les membres, préférences linguistique, etc.
-
-**Type d'inscription**
-- Pour ceux qui veulent participer à des compétitions: Il faut choisir l'option  `Niveau compétitions PVQ (I-P-E-CU)`.
-- Pour participer aux entrainements de manière récréative, vous devez vous inscrire comme patineur ou patineuse `Vie active (régulier)`.
+![Sélection du club sur IceReg](iceReg-affiliation-club.png)
 
 ### 3. Paiement au Club des Maîtres-patineurs
 
@@ -83,11 +97,11 @@ Bonne nouvelle! Depuis la saison 2025-2026, par souci de simplification d’insc
 
 :::
 
-Il suffit ensuite d’envoyer votre argent (transfert interac) à votre [shérif du tiroir-caisse](/nouvelles/authors/sherif-du-tiroir-caisse): tresorier@maitrespatineurs.ca. Autodépôt étant activé, il n'y a pas de question et de mot à passe à configurer. 
+Il suffit ensuite d’envoyer votre argent (transfert interac) à votre [shérif du tiroir-caisse](/nouvelles/authors/sherif-du-tiroir-caisse): `tresorier@maitrespatineurs.ca`. Autodépôt étant activé, il n'y a pas de question et de mot à passe à configurer. 
 
-:::warning
+:::warning[Soyez minutieux lors du transfert]
 
-Comme le montant de votre transfert interract détermine votre type d'abonnement, il est important de bien inscrire le montant
+Comme **le montant de votre transfert interac détermine votre type d'abonnement**, il est important de bien inscrire le montant
 
 :::
 
