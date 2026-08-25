@@ -93,8 +93,13 @@ const config: Config = {
           position: 'left'
         },
         {
-          to: '/docs/tarifs-et-inscription',
-          label: 'Tarifs et inscription',
+          to: '/docs/inscription',
+          label: 'Inscription',
+          position: 'left'
+        },
+        {
+          to: '/docs/tarifs-et-paiement',
+          label: 'Tarifs et paiement',
           position: 'left'
         },
         {
