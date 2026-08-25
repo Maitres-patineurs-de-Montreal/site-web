@@ -3,7 +3,7 @@ sidebar_position: 4
 title: Tarifs et inscription
 ---
 
-## Tarifs
+## Tarifs 2026-2027
 
 :::warning
 
