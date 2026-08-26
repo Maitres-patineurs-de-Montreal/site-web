@@ -41,5 +41,7 @@ Il a ensuite commencé à entraîner en même temps le groupe de Maurice-Richard
 - [**Olivier Jean**](https://olympique.ca/team-canada/olivier-jean/), champion olympique 🥇 et maintenant [entraîneur de l'équipe nationale](https://www.journaldemontreal.com/2026/02/17/olivier-jean--lheureux-instructeur-aux-nombreux-chapeaux-de-lequipe-de-patinage-de-vitesse)
 - [**Mathieu Turcotte**](https://olympique.ca/team-canada/mathieu-turcotte/), champion et triple médaillé olympique 🥉🥇🥈, fondateur de [Apex Racing Skates](https://apexracingskates.com/fr/pages/history) et participant de la [finale olympique la plus célèbre](https://www.youtube.com/watch?v=LwWt3jNhsv4)!
 - **Laurie Marceau**, médaillée aux Championnats du monde juniors 🥉
-- [**Marianne St-Gelais**](https://olympique.ca/team-canada/marianne-st-gelais/), triple médaillée Olympique 🥈🥈🥈
 - [**François-Louis Tremblay**](https://olympique.ca/team-canada/francois-louis-tremblay/), champion et quintuple médaillé olympique 🥇🥈🥈🥉🥇
+- [**Marianne St-Gelais**](https://olympique.ca/team-canada/marianne-st-gelais/), triple médaillée Olympique 🥈🥈🥈
+- [**Mathieu Giroux**](https://olympique.ca/team-canada/mathieu-giroux/), champion olympique 🥇
+- [**Steve Robillard**], multiple Recordman du Monde, triple médaillé aux Championnats du monde juniors 🥈🥈🥈
