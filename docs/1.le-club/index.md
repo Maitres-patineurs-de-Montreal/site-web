@@ -44,4 +44,4 @@ Il a ensuite commencé à entraîner en même temps le groupe de Maurice-Richard
 - [**François-Louis Tremblay**](https://olympique.ca/team-canada/francois-louis-tremblay/), champion et quintuple médaillé olympique 🥇🥈🥈🥉🥇
 - [**Marianne St-Gelais**](https://olympique.ca/team-canada/marianne-st-gelais/), triple médaillée Olympique 🥈🥈🥈
 - [**Mathieu Giroux**](https://olympique.ca/team-canada/mathieu-giroux/), champion olympique 🥇
-- [**Steve Robillard**], multiple Recordman du Monde, triple médaillé aux Championnats du monde juniors 🥈🥈🥈
+- **Steve Robillard**, multiple Recordman du Monde, triple médaillé aux Championnats du monde juniors 🥈🥈🥈
