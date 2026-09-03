@@ -3,7 +3,7 @@ sidebar_position: 4
 title: Inscription
 ---
 
-:::warning[Groupe Maurice-Richard seulement]
+:::info[Groupe Maurice-Richard seulement]
 
 Depuis la saison 2025-2026, le Club des Maîtres-patineurs ne s’occupe plus que des opérations du groupe Maurice-Richard. Référez-vous au [club de Gadbois](https://www.cpvgadbois.com/patinage-adulte/) et au [club de Saint-Michel](https://www.zeffy.com/fr-CA/ticketing/cpvmsm-2025--2026) pour les groupes de maîtres associés à ces clubs.
 
