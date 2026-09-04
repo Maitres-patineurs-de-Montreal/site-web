@@ -42,10 +42,8 @@ Les noms et des photos des participants peuvent être publiés ou affichés sur 
 En vous inscrivant au club, vous confirmez que toutes les informations fournies sont justes en date de la signature, vous déclarez avoir lu et compris les présents conditions et [règlements des sciences](/reglements) et autorise le Club des Maîtres-patineurs à utiliser mes informations personnelles et les photos dans lesquelles j’apparais comme stipulé dans le présent formulaire.
 
 ## Vol
-
-Il est de votre responsabilité de garder vos effets personnels en sécurité. Le club se décharge de tout vol ou dommage qu'un patineur pourrait subir.
  
-La chambre des athlètes est généralement, mais pas nécessairement, cadenassée. Si aucun cadenas n'est disponible, il est fortement recommandé d'amener vos effets personnels (surtout cellulaires et portefeuilles) à côté de la patinoire.
+La chambre des athlètes est cadenassée par le club. Cepandant, le risque zéro n'existe pas: il se peut qu'un vol survienne si un voleur, par exemple, coupe le cadenas. Le club se décharge de tout vol ou dommage qu'un patineur pourrait subir.
 
 ## Dommages
 
